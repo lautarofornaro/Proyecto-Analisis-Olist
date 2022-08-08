@@ -16,3 +16,10 @@ Como objetivos tecnicos:
 - Se realizo un DataLake basado en la nube (Amazon Web Services)
 - Se realizo un Dashboard para visualizar las metricas
 - Se realizo un modelo de machine-learning que predice el costo y tiempos de envíos
+
+Participantes del proyecto:
+- Gonzalo Pietraroia
+- Gonzalo Posse
+- Martin Tosi
+- Juan Flores
+- Lautaro Fornaro
