@@ -15,7 +15,7 @@ Como objetivos tecnicos:
 - Se realizo un proceso de ETL
 - Se realizo un DataLake basado en la nube (Amazon Web Services)
 - Se realizo un Dashboard para visualizar las metricas
-- Se realizo un modelo de machine-learning que predice el costo y tiempos de envíos
+- Se realizo un modelo de machine-learning con el cual predecir los costos y tiempos de envío
 
 Participantes del proyecto:
 - Gonzalo Pietraroia
