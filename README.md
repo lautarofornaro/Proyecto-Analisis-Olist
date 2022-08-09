@@ -12,6 +12,7 @@ El mismo contiene la siguiente información:
 Teniedo esa información se realizo un analisis con el objetivo de evaluar las oportunidades para incursionar en el mercado de e-commerce de Brasil.
 
 Como objetivos tecnicos:
+- Se realizo un reporte de la calidad inicial de los datos
 - Se realizo un proceso de ETL
 - Se realizo un DataLake basado en la nube (Amazon Web Services)
 - Se realizo un Dashboard para visualizar las metricas
