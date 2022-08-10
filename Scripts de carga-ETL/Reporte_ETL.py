@@ -191,7 +191,7 @@ def Export(directorio,trabajado):
     for nombre_csv in lista_csv:
         # Generamos los DF
         print('Trabajando el archivo: ', nombre_csv)
-        DF = pd.read_csv(directorio+'%s' % nombre_csv)
+        DF = pd.read_csv(directorio+'/%s' % nombre_csv)
         DF.name = nombre_csv
         
         # Mostramos un reporte de calidad del DF
@@ -214,7 +214,7 @@ def Export(directorio,trabajado):
         lista_header = lista_header.tolist()
 
         # Exportamos csvs en un directorio especificado
-        DF.to_csv(trabajado+'%s' % nombre_csv, index = False, header = lista_header)
+        DF.to_csv(trabajado+'/%s' % nombre_csv, index = False, header = lista_header)
 
 print('Por favor ingrese el directorio de la data que desea trabajar: ')
 directorio = str(input())
